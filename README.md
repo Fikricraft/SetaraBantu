@@ -63,7 +63,7 @@ Aplikasi ini memiliki 3 peran aktif utama (**Admin**, **Petugas**, dan **Warga**
 1. Pastikan **XAMPP** sudah terpasang di folder instalasi standar (`xampp`).
 2. Clone atau download repository ini.
    ```bash
-   git clone https://github.com/<username-github>/<nama-repository>.git
+   git clone (https://github.com/Fikricraft/SetaraBantu)
    ```
 3. Masuk ke folder proyek, lalu klik dua kali file `JALANKAN_WEBSITE.BAT`. Script ini otomatis menyalakan MySQL, membuat database `setarabantu_db`, mengimpor `database.sql`, dan menjalankan server lokal.
 
