@@ -10,9 +10,9 @@ SetaraBantu adalah aplikasi berbasis web untuk mendata warga penerima bantuan, m
 
 | No | Nama Lengkap | NIM | Peran / Pembagian Tugas |
 | --- | --- | --- | --- |
-| 1 | *(Isi Nama Anggota 1)* | *(Isi NIM)* | *(Backend, Database, Autentikasi)* |
-| 2 | *(Isi Nama Anggota 2)* | *(Isi NIM)* | *(Modul Verifikasi, Penyaluran, Dashboard)* |
-| 3 | *(Isi Nama Anggota 3)* | *(Isi NIM)* | *(UI/UX, Modul Warga, Pengajuan, Dokumentasi)* |
+| 1 | *Fadillah Mauladi Yofiawan* | *H1D025015* | *Kategori rentan, program bantuan, dan pengajuan* |
+| 2 | *Fatma Khoeruzdzikrina* | *H1D025038* | *Autentikasi, user & role, dan data penerima* |
+| 3 | *Muhammad Fadilah Fikri* | *H1D025050* | *Verifikasi & prioritas, penyaluran, dan dashboard* |
 
 ---
 
