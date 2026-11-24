@@ -99,7 +99,7 @@ Aplikasi ini memiliki 3 peran aktif utama (**Admin**, **Petugas**, dan **Warga**
 
 ## Tautan Publikasi Proyek
 
-- **Video Presentasi (YouTube)** — *(Isi link YouTube di sini)*
-- **Project Showcase Anggota 1** — *(Isi link Instagram / LinkedIn)*
-- **Project Showcase Anggota 2** — *(Isi link Instagram / LinkedIn)*
-- **Project Showcase Anggota 3** — *(Isi link Instagram / LinkedIn)*
+- **Video Presentasi (YouTube)** — *([Isi link YouTube di sini](https://youtu.be/qwk2IYcPkJI?si=TLy8Xr6TM08WeLdG))*
+- **Project Showcase Anggota 1** — *([Isi link Instagram / LinkedIn](https://lnkd.in/p/giGMxkEF))*
+- **Project Showcase Anggota 2** — *([Isi link Instagram / LinkedIn](https://lnkd.in/p/gJvXHXZg))*
+- **Project Showcase Anggota 3** — *([Isi link Instagram / LinkedIn](https://lnkd.in/p/gkA3m_XW))*
